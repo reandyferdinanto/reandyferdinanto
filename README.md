@@ -1,8 +1,8 @@
 ## HELLO From Me
 
 - 👋 Hi, I’m @reandyferdinanto
-- 👀 I’m interested in Backend Web Developer
-- 🌱 I’m currently learning React.js to complete my fullstack roadmap
+- 👀 I’m interested in Fullstack Web Developer
+- 🌱 I’m currently learning Next.js to complete my fullstack roadmap
 - 📫 You may reach me on my LinkedIn Account https://www.linkedin.com/in/reandyf/
 
 ### Repository for my Projects are :
